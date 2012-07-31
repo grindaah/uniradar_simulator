@@ -15,5 +15,6 @@ Plans
 3) Make detail shem of software in UML notation.
 4) Define pool of techologies and libraries which will be use
 5) Develop module of exchange with imto
-6) Develop helpful classes like a read cmd params,log,mutexes 
+6) Develop helpful classes like a read cmd params,log,mutexes
+7)
 
